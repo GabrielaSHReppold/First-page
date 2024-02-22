@@ -1,4 +1,4 @@
-                                                                      Os Cavaleiros do Zodíaco
+                                                                Os Cavaleiros do Zodíaco
 
                                                   O projeto é um site proposto pela mentora da Growdev
 🕵Sobre
